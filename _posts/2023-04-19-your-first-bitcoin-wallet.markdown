@@ -18,11 +18,11 @@ A wallet is just a way to control your bitcoin. It holds keys (like a password) 
 
 After downloading, open [Blue Wallet][bluewallet] and select "Add a wallet".
 
-![add wallet](/assets/images/addw.jpg)
+![add wallet]({{site.baseurl}}/assets/images/addw.jpg)
 
 Name your wallet something cool, and select "Bitcoin" as the type. Select "Create".
 
-![add wallet](/assets/images/createw.jpg)
+![add wallet]({{site.baseurl}}/assets/images/createw.jpg)
 
 <h4>3. Secure your seed phrase</h4>
 
