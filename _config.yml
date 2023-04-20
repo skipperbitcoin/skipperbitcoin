@@ -22,9 +22,9 @@ title: Skipper Bitcoin
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The absolute best bitcoin education no money can buy. From 0 knowledge to Bitcoiner in no time.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sovereignsails
+baseurl: /skipperbitcoin # the subpath of your site, e.g. /blog
+url: skipperbitcoin.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
 github_username:  skipperbitcoin
 
 # Build settings
