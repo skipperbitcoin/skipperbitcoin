@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title:  "Your First Bitcoin Wallet"
 date:   2023-04-19 19:41:37 +0400
 categories: beginner-series
